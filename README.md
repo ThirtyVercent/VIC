@@ -3,10 +3,15 @@
 THIRTYVERCENT
 
 THERE IS A LIMIT ON FPS IN PROFILE 01
+
 TO REMOVE IT GO TO FILE VMIS and select sp1.bat
+
 Right click it and select edit
+
 delete line --fps-15
+
 or change the number
+
 whatever you need to do I don't really care.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
