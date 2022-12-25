@@ -1,4 +1,7 @@
 
+This is the same as the previous
+just text format
+
 
 WHEN RUNNING STARTVRC.bat DO NOT    I REPEAT    DO NOT SKIP THE TIMER
 
