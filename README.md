@@ -16,6 +16,7 @@ or change the number
 whatever you need to do
 
 RAISING THE NUMBER WILL INCREASE THE FPS LIMIT
+
 THE HIGHER THE FPS LIMIT --- THE HIGHER FPS --- THE BIGGER THE PERFORMANCE PENALTY TO THE SYSTEM THAT IS RUNNING THESE
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
