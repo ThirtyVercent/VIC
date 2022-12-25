@@ -33,7 +33,7 @@ IF SKIPPED, THE EAC INSTANCE WILL COME BACK WITH ERROR 30005 COULD NOT WRITE FIL
 
 	THIS DOES NOT ALTER YOUR VRChat SHORTCUT ON THE DESKTOP
 	TO RUN MULTIPLE INSTANCES USE STARTVRC.bat
-	YOU CAN MOVE STARTVRC.bat ANYWHERE
+	YOU CAN RENAME AND MOVE DEFAULTSTART.bat/NONDEFAULTSTART.bat ANYWHERE
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
