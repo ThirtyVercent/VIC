@@ -1,8 +1,7 @@
 # VIC
+# BY  THIRTYVERCENT
 
-BY  THIRTYVERCENT
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 THERE IS A LIMIT ON FPS IN PROFILE 01
 
@@ -30,52 +29,55 @@ IT IS THERE TO MAKE SURE THE EAC INSTANCES DONT OVERLAP
 
 IF SKIPPED, THE EAC INSTANCE WILL COME BACK WITH ERROR 30005 COULD NOT WRITE FILE 32
 
-======================================================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	THIS DOES NOT ALTER YOUR VRChat SHORTCUT ON THE DESKTOP
 	TO RUN MULTIPLE INSTANCES USE STARTVRC.bat
 	YOU CAN MOVE STARTVRC.bat ANYWHERE
 
-======================================================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-    This is to open 2 vrc instances
-		It does not bypass eac just uses a loophole that allows 2 accounts to be loaded on the same instance
+	This is to open 2 vrc instances
 
-		Locate your install directory for vrc. If you have not changed it don't worry about looking for it
+	It does not bypass eac just uses a loophole that allows 2 accounts to be loaded on the same instance
 
-		There is a default that this script will search in
+	Locate your install directory for vrc. If you have not changed it don't worry about looking for it
 
-============ ============= ================= =============== ============== ============ ============== ============== ============= ============ ========== ==========
+	There is a default that this script will search in
 
-If you did change the directory of install to another drive or just somewhere else
-This is how you find it
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	If you did change the directory of install to another drive or just somewhere else
+	This is how you find it
 
 
-	Start steam
+		Start steam
 
-	Go to library
+		Go to library
 
-	Find vrchat
+		Find vrchat
 
-	Click the gear icon that will be to the right of the screen on the same plane as the play button
+		Click the gear icon that will be to the right of the screen on the same plane as the play button
 
-	Click properties on the drop down 
+		Click properties on the drop down 
 
-	This will open another window
+		This will open another window
 
-	Click local files on the left side in this window
+		Click local files on the left side in this window
 
-	Select browse (its on the top right of the window)
+		Select browse (its on the top right of the window)
 
-	And copy the address at the top on the file explorer
+		And copy the address at the top on the file explorer
 
-		It should look similar to this 
-		D:\SteamLibrary\steamapps\common\VRChat
+			It should look similar to this 
+			D:\SteamLibrary\steamapps\common\VRChat
 
-		It may have a different drive letter but the base should start with SteamLibrary
-		If it doesn't it should not matter as long as the end is VRChat
+			It may have a different drive letter but the base should start with SteamLibrary
+			If it doesn't it should not matter as long as the end is VRChat
 
-	Keep it open
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Keep the directory open
 
 Run VRCIC.cmd
 
@@ -85,5 +87,7 @@ On the option screen type 2 for yes
 
 Paste the path and press enter and follow the steps
 
-AFTER THIS STEP IT IS OK TO SKIP THE TIMERS
-THEY ARE THERE TO SHOW WHAT IT IS DOING/LOOKING FOR
+	NOTICE ----- ----- ----- ---- ---- ----- ----- ---- ------ ------
+		AFTER THIS STEP IT IS OK TO SKIP THE TIMERS
+		THEY ARE THERE TO SHOW WHAT IT IS DOING/LOOKING FOR
+      	-------- ---- ----- ----- ----- ---- ---- ----- ---- ---- ----- ---
