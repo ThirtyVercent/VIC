@@ -2,6 +2,25 @@
 # BY  THIRTYVERCENT
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PROBABLY A GOOD IDEA TO SAY WHAT THIS IS.
+
+THIS IS MY ATTEMPT AT CREATING A BATCH SCRIPT FOR WINDOWS TO LOAD MULTIPLE INSTANCES OF VRCHAT
+
+I HAVE NOT SEEN ANYTHING IN THIS MANNER YET SO I GAVE IT A GO
+
+USING THIS SHOULD NOT BE AGAINST THE EAC POLICY AS IT DOES NOT BYPASS IT
+
+ALL IT DOES IS LET YOU USE A SECOND SEPERATE ACCOUNT OF VRC (VRCHAT)
+
+ITS A BIT GARBLED BUT ITS 4 IN THE MORNING AND I DONT FEEL THE GREATEST SO HERES MY BEST
+
+BELOW ARE TIPS ON USING THIS PROGRAM
+
+FEEL FREE TO CHANGE IT AS YOU SEE FIT
+
+ITS IS NOT LICENSED AND I PLAN TO KEEP IT SO
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 THERE IS A LIMIT ON FPS IN PROFILE 01
 
@@ -35,7 +54,7 @@ IF SKIPPED, THE EAC INSTANCE WILL COME BACK WITH ERROR 30005 COULD NOT WRITE FIL
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	THIS DOES NOT ALTER YOUR VRChat SHORTCUT ON THE DESKTOP
-	TO RUN MULTIPLE INSTANCES USE STARTVRC.bat
+	TO RUN MULTIPLE INSTANCES USE DEFAULT / NONDEFAULT.bat
 	YOU CAN RENAME AND MOVE DEFAULTSTART.bat/NONDEFAULTSTART.bat ANYWHERE
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
