@@ -5,7 +5,7 @@
 
 THERE IS A LIMIT ON FPS IN PROFILE 01
 
-TO REMOVE IT GO TO FOLDER VMIS LOCATED IN 'VIC/VRC MULTI INSTANCE SCRIPT/VMIS' AND SELECT sp1.bat
+TO REMOVE IT GO TO FOLDER VMIS LOCATED IN 'VIC/VRC MULTI INSTANCE SCRIPT/VMIS/DEF or NON' AND SELECT sp1.bat
 
 Right click it and select edit
 
@@ -13,21 +13,23 @@ delete line --fps-15
 
 or change the number
 
-whatever you need to do I don't really care.
+whatever you need to do
 
+RAISING THE NUMBER WILL INCREASE THE FPS LIMIT
+THE HIGHER THE FPS LIMIT --- THE HIGHER FPS --- THE BIGGER THE PERFORMANCE PENALTY TO THE SYSTEM THAT IS RUNNING THESE
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 WARNING WARNING WARNING
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-WHEN RUNNING STARTVRC.bat DO NOT    I REPEAT    DO NOT SKIP THE TIMER
+WHEN RUNNING DEFAULT.bat or NONDEFAULT.bat DO NOT !!!!!I REPEAT!!!! DO NOT SKIP THE TIMER
 
 
-IT IS THERE TO MAKE SURE THE EAC INSTANCES DONT OVERLAP
+IT IS THERE TO MAKE SURE THE EAC INSTANCES DON'T OVERLAP
 
 
-IF SKIPPED, THE EAC INSTANCE WILL COME BACK WITH ERROR 30005 COULD NOT WRITE FILE 32
+IF SKIPPED, THE EAC INSTANCE WILL COME BACK WITH ERROR 30005 COULD NOT WRITE FILE 32 or WON'T START AT ALL!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
